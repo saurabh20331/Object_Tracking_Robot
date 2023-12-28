@@ -11,7 +11,6 @@ For more Details:<br>
 [Follow this link](/Object-%20Following%20Robot.pdf)
 
 <img src="/photos-and-videos/side-view.jpg" alt="Alt text" width="300"/>
+<img src="/photos-and-videos/top-view.jpg" alt="Alt text" width="300"/>
 
-
-![](/photos-and-videos/top-view.jpg  "top-view")
-<!-- ![](/photos-and-videos/side-view.jpg) -->
+<video src="/photos-and-videos/demo-vid.mp4" type="video/mp4" />
